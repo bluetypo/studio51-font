@@ -244850,39 +244850,6 @@ name = "Update Features";
 value = 1;
 }
 );
-interpolationWeight = 20;
-instanceInterpolations = {
-UUID0 = 1;
-};
-isItalic = 1;
-linkStyle = Thin;
-name = "Thin Italic";
-weightClass = Thin;
-},
-{
-customParameters = (
-{
-name = "Update Features";
-value = 1;
-}
-);
-interpolationWeight = 33;
-instanceInterpolations = {
-"C4221BDF-4AE8-4E40-821A-B2476087DE1A" = 0.14444;
-UUID0 = 0.85556;
-};
-isItalic = 1;
-linkStyle = ExtraLight;
-name = "ExtraLight Italic";
-weightClass = ExtraLight;
-},
-{
-customParameters = (
-{
-name = "Update Features";
-value = 1;
-}
-);
 interpolationWeight = 50;
 instanceInterpolations = {
 "C4221BDF-4AE8-4E40-821A-B2476087DE1A" = 0.33333;
@@ -244958,39 +244925,6 @@ isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
 weightClass = Bold;
-},
-{
-customParameters = (
-{
-name = "Update Features";
-value = 1;
-}
-);
-interpolationWeight = 190;
-instanceInterpolations = {
-"5DA6E103-6A94-47F2-987D-4952DB8EA68E" = 0.68966;
-"C4221BDF-4AE8-4E40-821A-B2476087DE1A" = 0.31034;
-};
-isItalic = 1;
-linkStyle = ExtraBold;
-name = "ExtraBold Italic";
-weightClass = ExtraBold;
-},
-{
-customParameters = (
-{
-name = "Update Features";
-value = 1;
-}
-);
-interpolationWeight = 226;
-instanceInterpolations = {
-"5DA6E103-6A94-47F2-987D-4952DB8EA68E" = 1;
-};
-isItalic = 1;
-linkStyle = Black;
-name = "Black Italic";
-weightClass = Black;
 }
 );
 kerning = {
