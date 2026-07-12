@@ -1,2 +1,53 @@
-# studio51-font
-Custom typeface family by Manuel Marquez Alarcón (studio51arch.com), derived from Montserrat.
+# The studio51 Font Project
+
+**studio51** es una familia tipográfica derivada (*Modified Version*) del proyecto [Montserrat](https://github.com/JulietaUla/Montserrat), creada y adaptada por **Manuel Marquez Alarcón** ([studio51arch.com](https://studio51arch.com)).
+
+Esta tipografía rescata y preserva la esencia urbana y geométrica de su diseño original, evolucionando e incorporando adaptaciones específicas para la identidad, arquitectura y proyectos de **studio51**.
+
+---
+
+## 📂 Estructura del Repositorio
+
+```text
+studio51-font/
+├── OFL.txt          # Licencia SIL Open Font License, Versión 1.1
+├── README.md        # Documentación y descripción general del proyecto
+├── sources/         # Archivos de origen (.glyphs) para edición en Glyphs / FontLab
+│   ├── studio51.glyphs
+│   └── studio51-Italic.glyphs
+└── fonts/           # Archivos tipográficos compilados listos para instalar (.otf, .ttf, .woff2)
+```
+
+---
+
+## 🛠️ Archivos Fuente (`sources/`)
+
+En la carpeta `sources/` encontrarás los archivos maestros en formato `.glyphs`:
+- **`studio51.glyphs`**: Contiene la familia multipeso estándar (desde *Thin* hasta *Black*).
+- **`studio51-Italic.glyphs`**: Contiene la versión cursiva / itálica en todos sus pesos correspondientes.
+
+Para editar o modificar la tipografía, puedes abrir estos archivos utilizando la aplicación **Glyphs** (macOS) o **FontLab**, o bien compilarla mediante herramientas de código abierto como [`fontmake`](https://github.com/googlefonts/fontmake).
+
+---
+
+## 💻 Archivos Compilados (`fonts/`)
+
+La carpeta `fonts/` está designada para almacenar los archivos listos para su uso e instalación en sistemas operativos o servidores web:
+- **`studio51-Regular.otf`**, **`studio51-Bold.otf`**, etc.
+- Versiones web (`.woff`, `.woff2`) para implementación en sitios web como `studio51arch.com`.
+
+---
+
+## 📄 Licencia y Reconocimientos
+
+Este software de fuentes (*Font Software*) se distribuye libremente bajo la **SIL Open Font License, Versión 1.1**. Puedes usarla, estudiarla, modificarla y redistribuirla tanto en proyectos personales como comerciales, siempre y cuando se cumplan las condiciones estipuladas en el archivo [`OFL.txt`](OFL.txt).
+
+### Aviso de Copyright
+- **Copyright 2026 Manuel Marquez Alarcón** ([https://studio51arch.com](https://studio51arch.com))
+- **Copyright 2024 The Montserrat.Git Project Authors** ([https://github.com/JulietaUla/Montserrat.git](https://github.com/JulietaUla/Montserrat.git))
+
+---
+
+## 🌐 Enlaces
+* **Sitio web oficial:** [studio51arch.com](https://studio51arch.com)
+* **Proyecto Original (Montserrat):** [github.com/JulietaUla/Montserrat](https://github.com/JulietaUla/Montserrat)
