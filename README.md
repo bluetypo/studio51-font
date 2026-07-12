@@ -1,6 +1,6 @@
 # The studio51 Font Project
 
-**studio51** es una familia tipográfica derivada (*Modified Version*) del proyecto [Montserrat](https://github.com/JulietaUla/Montserrat), creada y adaptada por **Manuel Marquez Alarcón** ([studio51arch.com](https://studio51arch.com)).
+**studio51** es una familia tipográfica derivada (*Modified Version*) del proyecto [Montserrat](https://github.com/JulietaUla/Montserrat), creada y adaptada para **Manuel Marquez Alarcón** ([studio51arch.com](https://studio51arch.com)).
 
 Esta tipografía rescata y preserva la esencia urbana y geométrica de su diseño original, evolucionando e incorporando adaptaciones específicas para la identidad, arquitectura y proyectos de **studio51**.
 
